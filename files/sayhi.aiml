@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	<category>
+        <pattern>XIN CHÀO</pattern>
+        <template>
+            <random>
+                <li>Xin chào! Tôi có thể giúp gì cho bạn.</li>
+                <li>Chào bạn! Bạn cần tôi giúp gì không?</li>
+                <li>Xin chào! Hôm nay bạn thế nào?</li>
+                <li>Chào! Tôi có thể giúp gì cho bạn hôm nay?</li>
+            </random>
+        </template>
+    </category>
+
+    <!-- Các mẫu câu phụ sử dụng từ đồng nghĩa và từ bổ sung -->
+    <category>
+        <pattern>HELLO</pattern>
+        <template>
+            <srai>XIN CHÀO</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>HI</pattern>
+        <template>
+            <srai>XIN CHÀO</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>CHÀO</pattern>
+        <template>
+            <srai>XIN CHÀO</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>XIN CHÀO *</pattern>
+        <template>
+            <srai>XIN CHÀO</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>HELLO *</pattern>
+        <template>
+            <srai>XIN CHÀO</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>HI *</pattern>
+        <template>
+            <srai>XIN CHÀO</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>CHÀO *</pattern>
+        <template>
+            <srai>XIN CHÀO</srai>
+        </template>
+    </category>
+	<category>
+	    <pattern>Bạn là ai</pattern>
+	    <template>
+	        Oh,Yeah!
+	        <button>
+	            <text>Bạn muốn biết tôi là ai</text>
+	            <postback>Biết tôi</postback>
+            </button>
+	    </template>
+    </category>
+    <category>
+        <pattern>Biết tôi</pattern>
+        <template>Tôi là một chatbot...! Tên là mientaytravel</template>
+    </category>
+    <category>
+        <pattern>Website của bạn là gì</pattern>
+        <template>
+            Ở đây!
+            <button>
+                <text> Đây là Website</text>
+                <url> https://home.pandorabots.com/home.html</url>
+            </button>
+        </template>
+    </category>
+</aiml>

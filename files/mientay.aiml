@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	<category>
+    <pattern>Đặc sản miền Tây</pattern>
+    <template> Có rất nhiều món ngon nhưng tôi sẽ giới thiệu bạn món tôi thích chính là :<b>CÁ KHO TỘ</b>
+        <image>https://mykhanh.com/files/images/bi-quyet-lam-mon-ca-kho-to.jpg</image>
+    <link>
+        <text>Ấn vào để xem cách nấu món cá kho tộ</text>
+        <url>https://saigonstartravel.com/xem-tin/bi-kip-nau-mon-ca-kho-to-mien-tay-ngon-dung-dieu/</url>
+    </link>
+</template>
+</category>
+<category>
+    <pattern>Còn món nào khác không</pattern>
+    <template>Tôi có một gợi ý chính là <b>Canh chua cá lóc</b>
+    <image>https://i-giadinh.vnecdn.net/2023/04/25/Thanh-pham-1-1-7239-1682395675.jpg</image>
+    <link>
+        <text>Ấn vào để xem cách nấu món canh chua cá lóc</text>
+        <url>https://vnexpress.net/canh-chua-ca-loc-chuan-vi-nam-bo-4597804.html</url>
+    </link>
+    </template>
+</category>
+
+<category>
+    <pattern>Ở Long An có món gì ngon</pattern>
+    <template>
+        Ở Long An, một số món ngon địa phương mà bạn nên thử:<br/>
+
+<b>Cá Lóc Nướng Trui:</b> Cá lóc là một loại cá phổ biến trong vùng, thường được nướng trui trên 
+lửa than hoặc than củi. Cá sau khi nướng sẽ có vị thơm ngon đặc trưng của cá lóc kết hợp với vị cay của ớt và mùi thơm của lá chuối.
+
+<b>Gỏi Cá Trích:</b> Cá trích là một loại cá ngon, thường được sử dụng để 
+làm gỏi với rau sống, dưa leo, đậu phộng, và nước mắm chua ngọt.
+
+<b>Lẩu Cá Kèo:</b> Một món lẩu truyền thống của 
+vùng, làm từ cá kèo và rau sống như rau muống, rau ngổ, cùng với nước dùng ngọt và thơm từ nước mắm và nước dừa.
+<b>Bún xiêm lo :</b>Món này thường được làm từ bún (bún lá) và xiêm lo - một loại
+cá tươi nướng chín, có thể là cá lóc, cá rô, cá linh hoặc các loại cá khác.    
+    </template>
+ </category>
+      <category>
+        <pattern>Cá lóc nướng </pattern>
+        <template>Oke dưới đây là hình ảnh minh họa
+        <image>https://cdn.tgdd.vn/Files/2020/05/30/1259474/cach-lam-ca-loc-nuong-mo-hanh-don-gian-ngon-mieng-7-760x367.png</image>
+        </template>
+    </category>
+    <category>
+        <pattern>Gỏi cá trích</pattern>
+        <template>Oke dưới đây là hình ảnh minh họa
+        
+        <image>https://netspace.edu.vn/upload/images/2016/08/23/goi-ca-trich-1.jpg</image>
+        </template>
+    </category>
+    <category>
+        <pattern>Lẩu cá kèo</pattern>
+        <template>Dưới đây là hình ảnh minh họa
+            <image>https://static.vinwonders.com/production/lau-ca-keo-ha-noi-1.jpg</image>
+        </template>
+    </category>
+    <category>
+        <pattern>Bún xiêm lo</pattern>
+        <template>
+            <image>https://kenh14cdn.com/thumb_w/660/203336854389633024/2022/8/10/photo-5-16601015502081680996443.jpg</image>
+        <link>
+            <text>Cách nấu ở đây nè tình iu</text>
+            <url>https://noiphodien123.vn/cach-nau-bun-xiem-lo-5-new.html</url>
+        </link>
+        </template>
+    </category>
+    <category>
+        <pattern>Giúp tôi đi đến Long An</pattern>
+        <template>
+            <image>https://vilitaxi.com/wp-content/uploads/2023/10/xe-phuong-trang-ben-xe-mien-tay-vung-tau.jpg</image>
+     <link>
+    <text>Bus Phương Trang</text>
+    <url>https://futabus.vn/</url>
+</link>
+        </template>
+    </category>
+    <category>
+        <pattern>An Giang có gì ngon</pattern>
+        <template>
+
+Ở An Giang, bạn có thể thưởng thức nhiều món ngon đặc sản vùng đất sông nước. Dưới đây là một số món ngon nổi tiếng của An Giang:<br/>
+
+<b>1.Lẩu Mắm:</b> Một món ăn truyền thống của vùng đất 
+sông nước, lẩu mắm là sự kết hợp hài hòa của các loại cá và thực phẩm từ sông nước như cá linh, cá lóc, rau sống, rau cần, bún, và mắm. Món này thường được thưởng thức cùng gia đình và bạn bè.
+
+<b>2.Bánh Canh Chả Cá:</b> Một món ăn độc đáo và ngon miệng của An Giang, bánh canh được làm từ bột gạo và nước dùng từ cá linh hoặc cá lóc, cùng với miếng chả cá thơm ngon và các loại rau sống.
+
+<b>3.Bún Cá:</b> Một món bún đặc trưng của vùng đất sông nước, bún 
+cá An Giang được làm từ bún, cá lóc hoặc cá linh, nước dùng từ nước lèo của cá, và rau sống. Món này thường được ăn kèm với rau sống, dưa leo và gia vị.
+
+<b>4.Lẩu Cá Bông Lau: </b>Một món lẩu truyền thống, được làm từ
+nước dùng ngọt tự nhiên của cá bông lau, kèm theo các loại 
+rau sống và gia vị. Món này thường được thưởng thức trong các buổi sum họp gia đình.
+
+<b> 5.Bánh Xèo Cá Lóc:</b> Bánh xèo ở An Giang thường được làm 
+từ bột gạo và nước cốt dừa, kèm theo miếng cá lóc chiên giòn. Món này thường được ăn kèm với rau sống, dưa leo và nước mắm chua ngọt.</template>
+    </category>
+    <category>
+        <pattern>Lẩu mắm ăn ở tiệm nào</pattern>
+        <template>
+           <b>Lẩu mắm Bảy Bồng</b> 
+Đã nói đến những quán lẩu mắm Châu Đốc An Giang ngon nhất hiện nay, ta không thể không nhắc đến quán Lẩu mắm Bảy Bồng. Nồi lẩu mắm thơm ngon, nước dùng nêm nếm vừa phải, nguyên liệu nhúng lẩu tươi ngon, cách trình bày đẹp mắt. Đặc biệt, rau nhúng lẩu luôn đảm 
+bảo độ tươi ngon, đảm bảo thực khách sẽ được thưởng thức hương vị lẩu mắm tuyệt vời nhất.
+
+<card>
+    <image>https://mia.vn/media/uploads/blog-du-lich/lau-mam-an-giang-mon-an-dai-dien-cho-nen-am-thuc-mien-dat-tay-nam-1661322320.jpg</image>
+    <title>Lẩu mắm Bảy bồng</title>
+    <subtitle>30-250VND</subtitle>
+    <button>
+        <text>Địa chỉ ở 121 Trưng Nữ Vương, Châu Phú B, Châu Đốc, An Giang</text>
+        <postback>VSOrder2</postback>
+    </button>
+</card>
+</template>
+    </category>
+    <category>
+        <pattern>VSOrder2</pattern>
+        <template>
+         <link>
+             <text>Ấn vào để xem đường</text>
+             <url>https://www.google.com/maps/place/121+Tr%C6%B0ng+N%E1%BB%AF+V%C6%B0%C6%A1ng,+Ch%C3%A2u+Ph%C3%BA+B,+Ch%C3%A2u+%C4%90%E1%BB%91c,+An+Giang,+Vi%E1%BB%87t+Nam/@10.7063456,105.11558,17z/data=!3m1!4b1!4m6!3m5!1s0x310a26af1393f455:0x53e9113678e0d9c5!8m2!3d10.7063403!4d105.1181549!16s%2Fg%2F11fsp2srlk?entry=ttu</url>
+         </link>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>Bún cá Châu Đốc</pattern>
+        <template>
+           <b>Bún Cá</b> 
+ Một món bún đặc trưng của vùng đất sông nước, bún cá An Giang được làm từ bún, cá lóc hoặc cá linh, nước dùng từ nước lèo của cá, và rau sống.
+ Món này thường được ăn kèm với rau sống, dưa leo và gia vị.
+
+<card>
+    <image>https://bepxua.vn/wp-content/uploads/2020/09/bun_ca_chau_doc-1.jpg</image>
+    <title>Bún cá Cô Nga</title>
+    <subtitle>30k-45k</subtitle>
+    <button>
+        <text>82 Nguyễn Văn Thoại, Châu Phú A, Châu Đốc, An Giang, Việt Nam</text>
+        <postback>VSOrder3</postback>
+    </button>
+</card>
+</template>
+
+    </category>
+    <category>
+        <pattern>VSOrder3</pattern>
+        <template>
+         <link>
+             <text>Ấn vào để xem đường</text>
+             <url>https://www.google.com/maps/place/82+Nguy%E1%BB%85n+V%C4%83n+Tho%E1%BA%A1i,+Ch%C3%A2u+Ph%C3%BA+A,+Ch%C3%A2u+%C4%90%E1%BB%91c,+An+Giang,+Vi%E1%BB%87t+Nam/@10.7095223,105.1156575,17z/data=!3m1!4b1!4m6!3m5!1s0x310a26a5bc2774f7:0x36070c874e69acad!8m2!3d10.709517!4d105.1182324!16s%2Fg%2F11j0bsl0c0?entry=ttu</url>
+         </link>
+        </template>
+    </category>
+    <category>
+        <pattern>Đi đến An Giang</pattern>
+        <template>
+            <image>https://vilitaxi.com/wp-content/uploads/2023/10/xe-phuong-trang-ben-xe-mien-tay-vung-tau.jpg</image>
+     <link>
+    <text>Bus Phương Trang</text>
+    <url>https://futabus.vn/</url>
+</link>
+        </template>
+    </category>
+    <category>
+        <pattern>Đặc sản Bến Tre</pattern>
+        <template>
+            Ở Bến Tre, có nhiều món ngon đặc sản vùng đất sông nước mà bạn không nên bỏ lỡ khi đến đây. Dưới đây là một số món ngon đặc trưng của Bến Tre:<br/>
+
+<b>1.Dừa :</b> Dừa được biết đến là vùng đất của dừa, vì vậy không thể không 
+kể đến các món ngon từ dừa như dừa xiêm, dừa sáp, dừa xiêm đường,
+và nước dừa tươi. Dừa không chỉ được ăn tươi mà còn được chế biến thành
+nhiều món ngon khác nhau.<br/>
+
+<b>2.Bánh Phồng sữa:</b>  Đây là một loại bánh truyền thống của Bến Tre. Bánh phồng sữa được làm từ bột gạo, bột mì hoặc bột năng, sau đó được chiên giòn trong dầu nóng cho đến 
+khi bánh phồng lên và trở nên giòn tan. Bánh phồng sữa thường được ăn kèm với đường hoặc mật ong..<br/>
+<b>3.Kẹo dừa</b>  Kẹo dừa là một loại kẹo truyền thống được làm từ dừa và đường.
+Dừa được bào thành sợi mỏng, sau đó kết hợp với đường và nước cốt dừa, 
+trộn đều và nấu chín cho đến khi đặc lại. Sau đó, hỗn hợp được đổ vào
+khuôn và cắt thành từng miếng nhỏ để tạo thành những viên kẹo dừa thơm ngon và ngọt ngào.
+
+</template>
+    </category>
+    <category>
+        <pattern>*</pattern>
+        <template>
+            Chào bạn, tôi là chatbot chuyên về ẩm thực và du lịch Miền Tây. Bạn muốn biết về:
+            <button>
+                <text>Du Lịch</text>
+                <postback>Du Lịch</postback>
+            </button>
+            <button>
+                <text>Ẩm thực</text>
+                <postback>Ẩm Thực</postback>
+            </button>
+           </template>
+    </category>
+    
+    <!-- Danh mục cho từ khóa "Du Lịch" -->
+    <category>
+        <pattern>Du Lịch</pattern>
+        <template>
+            Miền Tây có nhiều địa điểm du lịch thú vị. Bạn muốn tìm hiểu về:
+            <button>
+                <text>Chợ Nổi</text>
+                <postback>Cchợnổi</postback>
+            </button>
+            <button>
+                <text>Vườn Trái Cây</text>
+                <postback>Ctraicay</postback>
+            </button>
+            <button>
+                <text>Khu Du lịch sinh thái</text>
+                <postback>Csinhthai</postback>
+            </button>
+            <button>
+                <text>Tham Quan Di Tích Lịch Sử và Văn Hóa</text>
+                <postback>Cthamquan</postback>
+            </button>
+            <button>
+                <text>Du Lịch Tâm Linh
+</text>
+                <postback>Cdulich</postback>
+            </button>
+           
+    </template>
+    </category>
+
+    <!-- Danh mục cho từ khóa "Cchợnổi,...." -->
+    <category>
+        <pattern>Cchợnổi</pattern>
+        <template>
+            Chợ nổi là một trong những điểm đặc trưng và hấp dẫn của du lịch Miền Tây:
+            Chợ nổi Cái Răng (Cần Thơ): Một trong những chợ nổi lớn nhất và nổi tiếng nhất ở miền Tây, nơi bạn có thể trải nghiệm mua sắm trên sông<b/>  
+            Chợ nổi Phong Điền (Cần Thơ): Cũng là một chợ nổi đáng ghé thăm, với không khí nhộn nhịp và nhiều loại trái cây tươi ngon.
+        </template>
+    </category>
+    <category>
+        <pattern>Ctraicay</pattern>
+        <template>-Vườn trái cây Cái Mơn (Bến Tre): Nổi tiếng với các loại trái cây ngon và đa dạng như sầu riêng, măng cụt, chôm chôm <b/>
+-Vườn trái cây Mỹ Khánh (Cần Thơ): Bạn có thể tự tay hái trái cây và thưởng thức tại chỗ</template>
+    </category>
+    <category>
+        <pattern>Csinhthai</pattern>
+        <template>-Rừng tràm Trà Sư (An Giang): Một khu rừng ngập nước với hệ sinh thái phong phú, bạn có thể đi thuyền ngắm cảnh và chiêm ngưỡng các loài chim quý hiếm<b/>
+-Khu du lịch Xẻo Quýt (Đồng Tháp): Khu di tích lịch sử kết hợp du lịch sinh thái, nổi bật với những con kênh rạch nhỏ, rừng tràm và các loài động vật hoang dã</template>
+    </category>
+    <category>
+        <pattern>Cthamquan</pattern>
+        <template>-Làng hoa Sa Đéc (Đồng Tháp): Nổi tiếng với nhiều loài hoa đẹp và là một trong những làng hoa lớn nhất miền Tây<b/>
+-Cù lao An Bình (Vĩnh Long): Nơi bạn có thể khám phá cuộc sống của người dân địa phương và thưởng thức các món ăn đặc sản</template>
+    </category>
+    <category>
+        <pattern>Cdulich</pattern>
+        <template>-Chùa Vĩnh Tràng (Tiền Giang): Ngôi chùa cổ với kiến trúc kết hợp giữa phong cách Á và Âu, là nơi tâm linh và điểm tham quan nổi tiếng<b/>
+-Miếu Bà Chúa Xứ (An Giang): Một địa điểm tâm linh thu hút rất nhiều khách du lịch và người hành hương."</template>
+    </category>
+
+
+
+
+<category>
+    <pattern>Miền Tây có bao nhiêu tỉnh</pattern>
+    <template>
+        <button>
+            <text>Long An</text>
+            <postback>Clongan
+</postback>
+        </button>
+        <button>
+            <text>Tiền Giang</text>
+            <postback>CTiềngiang</postback>
+        </button>
+        <button>
+            <text>Bến Tre</text>
+            <postback>Cbentre</postback>
+        </button>
+        <button>
+            <text>Vĩnh Long</text>
+            <postback>Cvinhlong</postback>
+        </button>
+        <button>
+                <text>An Giang</text>
+                <postback>CAnGiang</postback>
+            </button>
+            <button>
+                <text>Kiên Giang</text>
+                <postback>CKienGiang</postback>
+            </button>
+            <button>
+                <text>Hậu Giang</text>
+                <postback>CHauGiang</postback>
+            </button>
+            <button>
+                <text>Sóc Trăng</text>
+                <postback>Csoctrang</postback>
+            </button>
+          <button>
+              <text>Bạc Liêu</text>
+              <postback>Cbaclieu</postback>
+          </button>
+          <button>
+              <text>Cà Mau</text>
+              <postback>Ccamau</postback>
+          </button>
+          <button>
+              <text>Tp.Cần Thơ</text>
+              <postback>Ccantho</postback>
+          </button>
+          <button>
+              <text>Trà Vinh</text>
+              <postback>Ctravinh</postback>
+          </button>
+          <button>
+              <text>Đồng Tháp</text>
+              <postback>Cdongthap</postback>
+          </button>
+          <image>https://dulichcanhviet.com.vn/uploads/noidung/images/ban-do-mien-tay.jpg</image>
+    </template>
+</category>
+
+<category>
+    <pattern>Clongan</pattern>
+    <template><b>Long An, một tỉnh nằm gần Sài Gòn, có nhiều địa điểm du lịch thú vị. Dưới đây là một số địa điểm bạn nên xem xét khi đến Long An vào cuối tuần:</b>
+
+- Làng nổi Tân Lập: Tản bộ trên con đường xuyên rừng tràm hoặc ngồi thuyền xuôi theo con rạch băng qua rừng. Không gian trong lành và bình yên, đặc biệt có cây cầu chữ X giữa cánh đồng súng mênh mông. Địa chỉ: QL 62, Tân Lập, Mộc Hóa, tỉnh Long An<b/>
+- Nhà cổ trăm cột: Ngôi nhà có hơn 180 cây cột làm từ gỗ quý như cẩm lai, gõ đỏ, gõ mật. Kiến trúc theo phong cách Huế, độc đáo và đẹp mắt<b/>
+- Công viên nước Rio: Địa điểm giải nóng hàng đầu với nhiều hoạt động thú vị<b/>
+- Làng cổ Phước Lộc Thọ: Trải nghiệm miền quê và văn hóa lịch sử<b/>
+- Happy Land Bến Lức: Khu giải trí đa dạng và thú vị<b/>
+- Cảng biển Tân Lập: Ngắm sông và thư giãn tại đây<b/>
+- Cánh đồng bất tận hoang sơ: Khám phá thiên nhiên tươi đẹp của Long An<b/>
+- Công viên 7 Kỳ Quan: Cảnh quan ấn tượng và độc đáo<b/>
+- Láng Sen: Khu bảo tồn đất ngập nước với hệ sinh thái phong phú<b/>
+- Cát Tường Phú Sinh: Khu sinh thái mang dáng vóc của một đô thị ấn tượng<b/>
+Ngoài ra, còn nhiều địa điểm khác đáng khám phá tại Long An. Chúc bạn có chuyến du lịch thú vị!<b/>
+<link>
+    <text>Tham khảo thêm tại đây</text>
+    <url>https://dulichviet.com.vn/tin-tuc/tong-hop-tour-du-lich-long-an-kham-pha-20-dia-diem-noi-tieng-nhat</url>
+</link>
+<image>https://cdn3.ivivu.com/2022/06/long-an.jpg</image>
+</template>
+</category>
+<category>
+    <pattern>CTiềngiang</pattern>
+    <template><b>Tiền Giang, một tỉnh ven biển thuộc khu vực đồng bằng sông Cửu Long, có nhiều địa điểm du lịch hấp dẫn. Dưới đây là một số địa điểm bạn nên xem xét khi đến Tiền Giang:
+</b>
+- Biển Tân Thành (biển Gò Công): Khác với vùng biển miền Bắc và miền Trung, biển Tân Thành sở hữu vẻ đẹp riêng với bãi cát đen dài hơn 7km. Đặc biệt, bạn có thể thỏa thích thưởng thức các món hải sản tươi ngon tại đây<b/>
+- Cầu Mỹ Thuận: Cây cầu dây văng đầu tiên tại Việt Nam, với kiến trúc độc đáo. Đặc biệt, khi màn đêm buông xuống, cầu sẽ trở nên nổi bật hơn với hệ thống đèn chiếu sáng và trang trí<b/>
+- Nhà thờ Cái Bè: Với kiến trúc Roman đặc trưng, nhà thờ Cái Bè không chỉ đóng vai trò quan trọng trong đời sống tôn giáo mà còn là địa điểm tham quan hấp dẫn ở Tiền Giang<b/>
+- Chùa Linh Thứu: Một trong những ngôi chùa có lịch sử lâu đời nhất tại tỉnh Tiền Giang. Đến đây, bạn có thể khám phá những đường nét kiến trúc độc đáo và gửi niệm lành đến gia đình và bạn bè<b/>
+Ngoài ra, còn nhiều địa điểm khác đáng khám phá tại Tiền Giang. Chúc bạn có chuyến du lịch thú vị! 🌊🌴🌞
+
+<link>
+    <text>Tham khảo thêm tại đây</text>
+    <url>https://sayhi.vn/dia-diem-du-lich-tien-giang-2/</url>
+</link>
+<image>https://bcp.cdnchinhphu.vn/334894974524682240/2024/1/5/tien-giang-700-1704451520797464800646.jpg</image>
+</template>
+</category>
+
+<category>
+    <pattern>Cbentre</pattern>
+    <template><b>Bến Tre, một tỉnh nằm ở miền Tây Nam Bộ Việt Nam, có nhiều điểm du lịch hấp dẫn. Dưới đây là một số kinh nghiệm du lịch Bến Tre mà bạn nên biết:</b>
+
+- Điểm đến hấp dẫn: Bến Tre có hệ thống sông ngòi, kênh rạch, và bờ biển dài 65km. Khí hậu ôn hòa, mát mẻ quanh năm. Đây còn là nơi trồng cây dừa nổi tiếng. Các làng nghề truyền thống và lễ hội cũng là điểm đến thú vị<b/>
+- Thời điểm lý tưởng: Mùa chín rộ của các loại trái cây (từ tháng 5 đến tháng 7) là thời điểm tốt để thăm Bến Tre. Bạn có cơ hội thưởng thức nhiều loại trái cây ngon nhất vùng Đồng bằng Sông Cửu Long<b/>
+- Phương tiện di chuyển: Nếu bạn đến từ miền Bắc hoặc miền Trung, có thể bay đến Sài Gòn và sau đó di chuyển đến - Bến Tre bằng xe hoặc đặt xe đưa đón sân bay<b/>
+Nếu bạn muốn tìm hiểu thêm về văn hóa, con người và các điểm du lịch nổi bật tại Bến Tre, bạn có thể truy cập 
+
+<link>
+    <text>Trang thông tin du lịch Bến Tre</text>
+    <url>https://dulich.bentre.gov.vn/Pages/default.aspx </url>
+</link>
+Chúc bạn có chuyến du lịch thú vị! 🌴🌞🌊</template>
+</category>
+
+<category>
+    <pattern>Cvinhlong</pattern>
+    <template><b>Vĩnh Long, một tỉnh thuộc vùng Đồng bằng sông Cửu Long, cũng có nhiều điểm du lịch và hoạt động thú vị mà bạn có thể khám phá. Dưới đây là một số gợi ý:</b>
+
+Chợ nổi Trà Ôn: Đây là một trong những chợ nổi đặc trưng của miền Tây Nam Bộ. Bạn có thể trải nghiệm cuộc sống trên sông và thưởng thức các món ăn đặc sản địa phương<b/>
+
+Cù lao An Bình: Nằm giữa sông Tiền, cù lao An Bình nổi tiếng với các vườn cây trái sum suê, đặc biệt là vườn chôm chôm, vườn sầu riêng và vườn mận<b/> Bạn có thể đi thuyền khám phá các kênh rạch và thưởng thức trái cây tại vườn<b/>
+
+Khu du lịch Vinh Sang: Đây là một khu du lịch sinh thái với nhiều hoạt động giải trí như câu cá sấu, cưỡi đà điểu, trượt cỏ và tham quan vườn trái cây<b/>
+
+Cầu Mỹ Thuận: Là một cây cầu dây văng nối liền Tiền Giang và Vĩnh Long, cầu Mỹ Thuận không chỉ là một công trình quan trọng về giao thông mà còn là một địa điểm check-in thú vị<b/>
+
+Chùa Tiên Châu: Một ngôi chùa cổ kính với kiến trúc độc đáo và không gian yên tĩnh, là nơi bạn có thể tìm hiểu về văn hóa và tôn giáo địa phương<b/>
+
+Nhà cổ Cai Cường: Ngôi nhà cổ này có kiến trúc pha trộn giữa Đông và Tây, với nhiều hiện vật quý giá từ thế kỷ 19<b/> Đây là nơi bạn có thể tìm hiểu về lịch sử và văn hóa của người dân Vĩnh Long<b/>
+
+Vườn bonsai Vĩnh Long: Đây là nơi bạn có thể chiêm ngưỡng những tác phẩm bonsai tinh xảo và thư giãn trong không gian xanh mát<b/>
+
+Khu du lịch sinh thái Hưng Thịnh: Với cảnh quan thiên nhiên tươi đẹp và nhiều hoạt động vui chơi giải trí, đây là nơi lý tưởng để bạn dã ngoại và thư giãn<b/>
+
+Làng gốm Vĩnh Long: Nơi bạn có thể tham quan quá trình sản xuất gốm truyền thống và mua những sản phẩm gốm độc đáo về làm quà<b/>
+
+<link>
+    <text>Tham khảo thêm tại đây</text>
+    <url>https://www.traveloka.com/vi-vn/explore/destination/dia-diem-du-lich-vinh-long/124871</url>
+</link>
+</template>
+</category>
+
+<category>
+    <pattern>CAnGiang</pattern>
+    <template>
+        <b>An Giang, một tỉnh nằm ở miền Tây Nam Bộ Việt Nam, có nhiều địa điểm du lịch hấp dẫn. Dưới đây là một số địa điểm bạn nên xem xét khi đến An Giang:
+</b>
+- Rừng Tràm Trà Sư: Đây là khu rừng tràm đẹp nhất và nổi tiếng nhất Việt Nam, với sinh cảnh tự nhiên rộng lớn của vùng đồng bằng sông Cửu Long. Đặc biệt, vào mùa nước nổi, hãy đến rừng tràm Trà Sư để tận hưởng vẻ đẹp độc đáo thông qua chuyến đi thuyền theo con nước len lỏi vào rừng xanh. Từ đài quan sát cao 30m trong khuôn viên khu du lịch, bạn có thể chiêm ngưỡng toàn cảnh bức tranh rừng tràm mênh mông bằng kính viễn vọng<b/>
+- Thốt Nốt Trái Tim: Thốt nốt trái tim là cụm cây thốt nốt có phần thân và tán lá tạo hình trái tim tự nhiên vô cùng độc đáo, nằm trên đoạn đường đi từ Hồ Tà Pạ đến Hồ Ô Thum. Giữa bức tranh thiên nhiên có trời mây, ruộng đồng, và hồ nước, cây thốt nốt trái tim trở thành điểm check-in vô cùng ấn tượng của du khách khi du hí An Giang<b/>
+- Chùa Lầu: Ngôi chùa này nằm trên đỉnh núi Sam, với kiến trúc độc đáo và tầm nhìn bao quát toàn cảnh vùng đồng bằng sông Cửu Long. Đến đây, bạn có thể tham quan chùa, chiêm ngưỡng cảnh quan và tận hưởng không gian yên bình<b/>
+Ngoài ra, còn nhiều địa điểm khác đáng khám phá tại An Giang. Chúc bạn có chuyến du lịch thú vị! 🌴🌞🌊
+
+    
+    <link>
+        <text>Tham khảo thêm tại đây</text>
+        <url>https://www.klook.com/vi/blog/dia-diem-du-lich-an-giang/</url>
+    </link>
+    </template>
+</category>
+<category>
+    <pattern>CKienGiang</pattern>
+    <template>
+        <b>Kiên Giang, một tỉnh nằm ở miền Tây Nam Bộ Việt Nam, có nhiều địa điểm du lịch hấp dẫn. Dưới đây là một số địa điểm bạn nên xem xét khi đến Kiên Giang:
+</b>
+Kiên Giang, một tỉnh nằm ở miền Tây Nam Bộ Việt Nam, có nhiều địa điểm du lịch hấp dẫn. Dưới đây là một số địa điểm bạn nên xem xét khi đến Kiên Giang:
+
+- Rừng Tràm Trà Sư: Khu rừng tràm đẹp nhất và nổi tiếng nhất Việt Nam, với sinh cảnh tự nhiên rộng lớn của vùng đồng bằng sông Cửu Long. Đặc biệt, vào mùa nước nổi, hãy đến rừng tràm Trà Sư để tận hưởng vẻ đẹp độc đáo thông qua chuyến đi thuyền theo con nước len lỏi vào rừng xanh <b/>
+- Nhà cổ Huỳnh Thuỷ Lê: Ngôi nhà này gắn liền với chuyện tình vượt biên giới của ông Huỳnh Thuỷ Lê và nữ văn sĩ người Pháp - Marguerite Duras. Được xây dựng từ năm 1895, ngôi nhà kết hợp kiến trúc phương Đông và phương Tây, giữ nguyên vẻ đẹp cổ kính từ thế kỉ 20<b/>
+- Tràm Chim National Park: Khu vực bảo tồn thiên nhiên với hệ sinh thái đa dạng, nơi bạn có thể quan sát chim đa dạng và tham gia các hoạt động khám phá thiên nhiên<b/>
+- Cái Răng Floating Market: Thị trường nổi nổi tiếng với các thuyền buôn bán hoa quả, thực phẩm và hàng hóa khác. Trải nghiệm cuộc sống sôi động trên sông và thưởng thức đặc sản miền Tây<b/>
+- Đảo Phú Quốc: Đảo xinh đẹp với bãi biển trắng, nước biển trong xanh và nhiều hoạt động thú vị như lặn biển, tham quan hệ sinh thái, và thưởng thức hải sản tươi ngon<b/>
+Ngoài ra, còn nhiều địa điểm khác đáng khám phá tại Kiên Giang. Chúc bạn có chuyến du lịch thú vị! 🌴🌞🌊.
+    
+    <link>
+        <text>Tham khảo thêm tại đây</text>
+        <url>https://vinpearl.com/vi/du-lich-kien-giang-101-bi-kip-an-choi-mua-sam-vui-quen-loi</url>
+    </link>
+    </template>
+</category>
+<category>
+    <pattern>CHauGiang</pattern>
+    <template>
+       <b>Khu du lịch sinh thái Tầm Vu: Đây là một khu du lịch sinh thái hấp dẫn với cảnh quan thiên nhiên tươi đẹp, nơi bạn có thể thăm quan, dã ngoại và thư giãn.</b> 
+
+Chợ nổi Ngã Bảy: Đây là một trong những chợ nổi nổi tiếng ở miền Tây Nam Bộ, nơi bạn có thể trải nghiệm mua sắm và thưởng thức các món ăn đặc sản địa phương trên sông<b/>
+
+Công viên nước Hậu Giang: Nếu bạn đi cùng gia đình và trẻ nhỏ, công viên nước Hậu Giang là một lựa chọn tốt với nhiều trò chơi dưới nước thú vị<b/>
+
+Vườn cò Bằng Lăng: Đây là một khu bảo tồn chim lớn, nơi bạn có thể ngắm nhìn hàng ngàn con cò và các loài chim khác trong môi trường tự nhiên<b/>
+
+Chùa Long An: Một ngôi chùa cổ kính với kiến trúc đẹp mắt, là nơi bạn có thể tìm hiểu về văn hóa và tôn giáo địa phương<b/>
+
+Khu di tích lịch sử Chiến thắng Chương Thiện: Đây là một địa điểm lịch sử quan trọng, nơi ghi dấu nhiều sự kiện trong cuộc kháng chiến chống Mỹ cứu nước của người dân Hậu Giang<b/>
+
+Công viên Xà No: Đây là một khu công viên xanh mát, lý tưởng cho các hoạt động dạo chơi, thư giãn và tổ chức các buổi picnic<b/>
+    
+    <link>
+        <text>Tham khảo thêm tại đây</text>
+        <url>https://luhanhvietnam.com.vn/du-lich/15-dia-diem-du-lich-hau-giang-noi-tieng.html</url>
+    </link>
+    </template>
+</category>
+<category>
+    <pattern>Csoctrang</pattern>
+    <template><b>Nếu bạn có cơ hội đến Sóc Trăng, dưới đây là một số địa điểm du lịch thú vị mà bạn nên xem xét</b>
+
+- Chợ nổi Ngã Năm: Nằm tại thị xã Ngã Năm, huyện Thạnh Trị, chợ nổi này nổi tiếng với các ghe và xuồng đầy trái cây nhiệt đới. Bạn có thể thưởng thức đặc sản và tìm hiểu về văn hoá địa phương<b/>
+- Chùa Dơi: Đây là ngôi chùa nổi tiếng tọa lạc tại đường Lê Hồng Phong, Phường 3, TP.Sóc Trăng. Kiến trúc của chùa Dơi đại diện cho Phật giáo Nam tông Khmer và có hàng nghìn con dơi treo mình trên cây trong khuôn viên chùa<b/>
+- Bảo tàng Khmer tỉnh Sóc Trăng: Viện bảo tàng này trưng bày nhiều sản vật văn hóa quý hiếm của người Khmer. Bạn có thể tìm hiểu về lịch sử và truyền thống của ba dân tộc Kinh, Hoa và Khmer<b/>
+- Vườn Cò Tân Long: Nằm cách thành phố Sóc Trăng khoảng 50km về phía Tây Nam, vườn cò này có quang cảnh thiên nhiên hoang sơ và đa dạng về động thực vật<b/>
+Hy vọng bạn sẽ có một chuyến du lịch thú vị tại Sóc Trăng! 😊🌿🌅
+<link>
+    <text>Tham khảo thêm tại đây</text>
+    <url>https://www.traveloka.com/vi-vn/explore/destination/dia-diem-du-lich-soc-trang/213690</url>
+</link>
+</template>
+</category>
+<category>
+    <pattern>Cbaclieu</pattern>
+    <template><b>Nếu bạn có cơ hội đến Bạc Liêu, dưới đây là một số địa điểm du lịch thú vị mà bạn nên xem xét:
+</b>
+- Nhà công tử Bạc Liêu: Nằm ngay cạnh dòng sông Bạc Liêu và tọa lạc tại số 13 cung đường Điện Biên Phủ, ngôi nhà bề thế này được xây dựng trong vòng 2 năm (1917 - 1919). Với khối kiến trúc hoành tráng bậc nhất thời bấy giờ, người dân địa phương gọi nơi đây bằng cái tên thú vị “nhà lớn”, Căn nhà đậm chất Pháp nằm tại trung tâm thành phố Bạc Liêu. Dù đã hơn 100 năm tuổi, dinh thự này vẫn giữ được nét hoa lệ của kiến trúc Tây Âu, Căn nhà gồm 2 tầng, 5 phòng ngủ và 4 đại sảnh được trang hoàng nội thất cực sang trọng. Điểm đặc trưng của công trình này là những bức tường sơn trắng nhã nhặn, trần nhà chạm trổ cực tinh xảo, khung cửa màu xanh dương sáng, nền gạch hoa và vật dụng gỗ chạm khắc xà cừ. Đặc biệt, ngôi nhà này là tác phẩm của một kiến trúc sư người Pháp và hầu hết vật liệu đều được vận chuyển về từ Paris<b/>
+Khi tham quan tại đây, giá vé là 30.000đ/vé người lớn và 20.000đ/ vé trẻ em. Ngoài ra, cung đường bên ngoài ngôi nhà tập hợp nhiều hàng quán bày bán các món ăn nổi tiếng của Bạc Liêu, trong đó, bạn nhất định phải thử món lẩu công tử nhé<b/>
+- Tháp cổ Vĩnh Hưng: Cách trung tâm thành phố Bạc Liêu khoảng 20km, tháp cổ Vĩnh Hưng là một khối kiến trúc được tìm thấy bởi học giả người Pháp - Lunet de Lajonquiere vào năm 1911<b/> Không chỉ đậm dấu ấn của nền văn hóa Óc Eo, đây còn là một trong những số ít công trình cổ còn tồn tại mà còn là nơi lưu giữ khá nhiều hiện vật quý (tượng, đá quý, đồ gồm…)<b/>
+Hy vọng bạn sẽ có một chuyến du lịch thú vị tại Bạc Liêu! 😊🌿🌅
+
+<link>
+    <text>Tham khảo thêm tại đây</text>
+    <url>https://kenhhomestay.com/dia-diem-du-lich-bac-lieu/</url>
+</link>
+<image>https://cdn.tgdd.vn/Files/2021/07/02/1365015/10-dia-diem-du-lich-dep-hut-khach-tai-bac-lieu-202112301626365959.jpg</image>
+</template>
+</category>
+<category>
+    <pattern>Ccamau</pattern>
+    <template><b>Nếu bạn có cơ hội đến Cà Mau, dưới đây là một số địa điểm du lịch thú vị mà bạn nên xem xét:</b>
+
+- Biển Khai Long: Nằm bên trong khu du lịch Biển Khai Long, đây là một bãi biển đặc biệt của vùng Đồng Bằng Sông Cửu Long<b/> Bạn có thể thư giãn, tắm biển và thưởng thức hải sản tươi ngon tại đây<b/>
+- Vườn quốc gia U Minh Hạ: Đây là một trong những khu dự trữ sinh quyển của thế giới<b/> Vườn quốc gia U Minh Hạ có rừng ngập mặn và là nơi bạn có thể khám phá thiên nhiên hoang sơ, quan sát động vật và thực vật đa dạng<b/>
+- Sân chim Ngọc Hiển: Đây là một khu vực quan trọng cho các loài chim di cư<b/> Bạn có thể tham quan và tận hưởng không gian thiên nhiên tại đây<b/>
+- Hòn Khoai và Hòn Đá Bạc: Hai hòn đảo này nằm ở vùng biển Cà Mau, có cảnh quan đẹp và là nơi bạn có thể tham quan, tắm biển và thưởng thức hải sản<b/>
+Hy vọng bạn sẽ có một chuyến du lịch thú vị tại Cà Mau! 😊🌿🌅
+
+<link>
+    <text>Tham khảo thêm tại đây</text>
+    <url>https://tourdulichmientay.vn/dia-diem-du-lich-ca-mau-288.html</url>
+</link>
+</template>
+</category>
+<category>
+    <pattern>Ccantho</pattern>
+    <template><b>Cần Thơ, thủ phủ của miền Tây, là một điểm đến hấp dẫn với vẻ đẹp bình dị và sự thân thiện của người dân. Dưới đây là một số địa điểm du lịch nổi tiếng tại Cần Thơ</b>
+
+- Chợ nổi Cái Răng: Nằm trên sông, chợ nổi này là nơi bạn có thể trải nghiệm cuộc sống thường ngày của người dân miền Tây<b/> Hoạt động mua bán diễn ra trên thuyền, tạo nên không gian văn hóa độc đáo<b/>
+- Bến Ninh Kiều: Biểu tượng của thành phố, nơi bạn có thể dạo chơi trên cây cầu đi bộ và hòa mình vào không gian sôi động của dòng người<b/>
+- Chùa Ông và Nhà cổ Bình Thuỷ: Hai điểm đến lịch sử với kiến trúc độc đáo và cảnh quan đẹp<b/>
+- Vườn trái cây Ba Cống và Vườn ca cao Mười Cương: Khám phá vườn cây trái xanh tươi và thưởng thức đặc sản miền Tây<b/>
+Dù bạn đến Cần Thơ vào mùa nào, vẻ đẹp đằm thắm của con người và thiên nhiên vẫn sẽ làm bạn say lòng! 😊🌿🌅
+<link>
+    <text>Tham khảo thêm tại đây
+</text>
+    <url>https://nucuoimekong.com/kinh-nghiem-du-lich-can-tho</url>
+</link>
+</template>
+</category>
+<category>
+    <pattern>Cdongthap</pattern>
+    <template><b>Đồng Tháp, một tỉnh nằm ở miền Tây Nam Bộ Việt Nam, có nhiều địa điểm du lịch hấp dẫn. Dưới đây là một số địa điểm bạn nên xem xét khi đến Đồng Tháp:</b>
+
+- Làng hoa Sa Đéc: Với diện tích hơn 500ha, làng hoa Sa Đéc là một trong các vựa hoa lớn nhất miền Nam và cả Đồng bằng sông Cửu Long<b/> Khám phá những khóm hoa rực rỡ màu sắc, trải nghiệm lội nước hoặc đi xuồng khám phá vườn. Thời điểm hoàn hảo để ghé thăm là những ngày cận Tết<b/><b/>
+- Nhà cổ Huỳnh Thuỷ Lê: Ngôi nhà này gắn liền với chuyện tình vượt biên giới của ông Huỳnh Thuỷ Lê và nữ văn sĩ người Pháp - Marguerite Duras. Được xây dựng từ năm 1895, ngôi nhà kết hợp kiến trúc phương Đông và phương Tây, giữ nguyên vẻ đẹp cổ kính từ thế kỉ 20<b/>
+- Tràm Chim National Park: Khu vực bảo tồn thiên nhiên với hệ sinh thái đa dạng, nơi bạn có thể quan sát chim đa dạng và tham gia các hoạt động khám phá thiên nhiên<b/>
+- Cái Răng Floating Market: Thị trường nổi nổi tiếng với các thuyền buôn bán hoa quả, thực phẩm và hàng hóa khác<b/> Trải nghiệm cuộc sống sôi động trên sông và thưởng thức đặc sản miền Tây<b/>
+- Đảo Tân Châu: Đảo nổi tiếng với ngành nghề dệt lụa và thảo dược. Khám phá làng nghề truyền thống và tham quan các xưởng dệt lụa<b/>
+Chúc bạn có chuyến du lịch thú vị tại Đồng Tháp! 🌴🌞🌊
+<link>
+    <text>Tham khảo thêm tại đây</text>
+    <url>https://www.bachhoaxanh.com/kinh-nghiem-hay/danh-sach-10-dia-diem-du-lich-noi-tieng-hut-khach-o-dong-thap-1362437</url>
+</link>
+</template>
+</category>
+<category>
+    <pattern>Ctravinh</pattern>
+    <template><b>Tại Trà Vinh, bạn sẽ khám phá những địa điểm du lịch độc đáo và đẹp mắt. Dưới đây là một số nơi bạn nên xem xét khi đến Trà Vinh:</b>
+
+- Ao Bà Om: Đây là một thắng cảnh độc đáo, nổi tiếng tại Trà Vinh<b/> Ao Bà Om có vẻ đẹp trong xanh, yên tĩnh, được bao bọc bởi rừng cây hơn trăm năm tuổi<b/> Đến đây, bạn có thể thăm chùa Âng và Bảo tàng văn hóa người Khmer<b/> 
+- Chùa Âng: Ngôi chùa cổ này được xem là đẹp nhất Trà Vinh<b/>  Với nghệ thuật điêu khắc đỉnh cao, chùa Âng gần 1,000 tuổi mang vẻ đẹp nguy nga và linh thiêng<b/>  Đây là nơi thực hiện các nghi thức Phật giáo và lưu giữ giá trị văn hóa truyền thống của người Khmer<b/> 
+- Biển Ba Động: Bãi biển Ba Động tọa lạc ở Trà Vinh, với cảnh quan tuyệt đẹp của sông nước và vùng đồng quê xanh mướt<b/>  Đây là điểm đến du lịch thú vị để thư giãn và tận hưởng biển cả<b/> 
+Ngoài ra, còn nhiều địa điểm khác đáng khám phá tại Trà Vinh. Chúc bạn có chuyến du lịch thú vị! 🌴🌞🌊
+<link>
+    <text>Tham khảo thêm tại đây</text>
+    <url>https://mia.vn/cam-nang-du-lich/du-lich-tra-vinh-12533</url>
+</link>
+</template>
+</category>
+
+
+    <!-- Danh mục cho từ khóa "am_thuc" -->
+    <category>
+        <pattern>Ẩm thực</pattern>
+        <template>
+           <b>Miền Tây, hay Đồng bằng sông Cửu Long, nổi tiếng với nền ẩm thực phong phú và độc đáo. Mỗi tỉnh thành ở miền Tây đều có những món ăn đặc sản riêng, mang đậm hương vị đặc trưng của vùng sông nước, dưới đây là danh sách các món ăn đặc sản của 13 tỉnh thành ở miền Tây:
+        </b> </template>
+    </category>
+    
+    <category>
+    <pattern>Ẩm thực</pattern>
+    <template>
+        <button>
+            <text>Long An</text>
+            <postback>Blongan
+</postback>
+        </button>
+        <button>
+            <text>Tiền Giang</text>
+            <postback>Btiengiang</postback>
+        </button>
+        <button>
+            <text>Bến Tre</text>
+            <postback>Bbentre</postback>
+        </button>
+        <button>
+            <text>Vĩnh Long</text>
+            <postback>Bvinhlong</postback>
+        </button>
+        <button>
+                <text>An Giang</text>
+                <postback>BAnGiang</postback>
+            </button>
+            <button>
+                <text>Kiên Giang</text>
+                <postback>BKienGiang</postback>
+            </button>
+            <button>
+                <text>Hậu Giang</text>
+                <postback>BHauGiang</postback>
+            </button>
+            <button>
+                <text>Sóc Trăng</text>
+                <postback>Bsoctrang</postback>
+            </button>
+          <button>
+              <text>Bạc Liêu</text>
+              <postback>Bbaclieu</postback>
+          </button>
+          <button>
+              <text>Cà Mau</text>
+              <postback>Bcamau</postback>
+          </button>
+          <button>
+              <text>Tp.Cần Thơ</text>
+              <postback>Bcantho</postback>
+          </button>
+          <button>
+              <text>Trà Vinh</text>
+              <postback>Btravinh</postback>
+          </button>
+          <button>
+              <text>Đồng Tháp</text>
+              <postback>Bdongthap</postback>
+          </button>
+    </template>
+</category>
+<category>
+    <pattern>Blongan</pattern>
+    <template>- Lẩu mắm: Món ăn nổi tiếng với nước lẩu đậm đà từ mắm cá linh, kèm theo rau sống và cá tươi<b/><b/>
+- Đậu phộng Đức Hòa: Đặc sản đậu phộng rang muối giòn tan.
+</template>
+</category>
+<category>
+    <pattern>Btiengiang</pattern>
+    <template>- Hủ tiếu Mỹ Tho: Hủ tiếu có sợi dai, nước dùng thơm ngon từ xương hầm, ăn kèm với tôm, thịt, gan, và rau sống<b/>
+- Bánh vá: Bánh được chiên giòn, làm từ bột gạo và nhân thịt, tôm, đậu xanh.</template>
+</category>
+<category>
+    <pattern>Bbentre</pattern>
+    <template>- Đuông dừa: Ấu trùng dừa chiên hoặc nướng, ăn kèm nước mắm<b/>
+- Kẹo dừa: Kẹo làm từ nước cốt dừa và đường, thơm ngon và dẻo.</template>
+</category>
+<category>
+    <pattern>Bvinhlong</pattern>
+    <template>- Cá tai tượng chiên xù: Cá tai tượng chiên giòn, ăn kèm bánh tráng, bún và rau sống<b/>
+- Bánh tráng nem cuốn: Bánh tráng cuốn thịt, tôm, rau sống, chấm nước mắm chua ngọt</template>
+</category>
+<category>
+    <pattern>Btravinh</pattern>
+    <template>- Bún nước lèo: Bún với nước lèo đậm đà từ mắm bò hóc, ăn kèm thịt, tôm, rau sống<b/>
+- Cháo ám Trà Vinh: Cháo nấu từ cá lóc, tôm, mực, có hương vị đặc biệt.</template>
+</category>
+<category>
+    <pattern>Bdongthap</pattern>
+    <template>- Cá lóc nướng trui: Cá lóc nướng trực tiếp trên lửa, ăn kèm bánh tráng và rau sống.
+- Bánh xèo Cao Lãnh: Bánh xèo giòn rụm, nhân tôm, thịt, giá đỗ.</template>
+</category>
+<category>
+    <pattern>Bangiang</pattern>
+    <template>- Bún cá Châu Đốc: Bún với nước lèo từ cá lóc, ăn kèm rau muống, bắp chuối và rau thơm.
+- Gỏi sầu đâu: Gỏi từ lá sầu đâu, tôm, thịt, nước mắm chua ngọt.</template>
+</category>
+<category>
+    <pattern>Bkiengiang</pattern>
+    <template>- Bún kèn Hà Tiên: Bún với nước cốt dừa và cá lóc, ăn kèm rau sống, giá đỗ<b/>
+- Cà xỉu: Món ăn từ con cà xỉu (một loại hải sản), làm gỏi hoặc xào.</template>
+</category>
+<category>
+    <pattern>Bhaugiang</pattern>
+    <template>- Cháo lòng Cái Tắc: Cháo lòng đậm đà, ăn kèm với rau sống và bánh mì<b/>
+- Khô cá lóc: Cá lóc được phơi khô, chiên giòn, ăn kèm cơm hoặc làm gỏi</template>
+</category>
+<category>
+    <pattern>Bsoctrang</pattern>
+    <template>- Bánh Pía: Bánh nhân đậu xanh, sầu riêng và trứng muối, vỏ mỏng, thơm ngon<b/>
+- Bún nước lèo: Bún với nước lèo từ mắm bò hóc, ăn kèm rau sống, thịt heo quay</template>
+</category>
+<category>
+    <pattern>Bbaclieu</pattern>
+    <template>- Ba khía Rạch Gốc: Ba khía muối đặc sản, ăn kèm với cơm trắng hoặc làm gỏi<b/>
+- Bún bò cay: Món bún với nước dùng cay nồng, đậm đà.</template>
+</category>
+<category>
+    <pattern>Bcamau</pattern>
+    <template>- Lẩu mắm U Minh: Lẩu mắm đậm đà từ mắm cá sặc, ăn kèm với các loại rau rừng<b/>
+- Cua Cà Mau: Cua biển tươi ngon, chế biến thành nhiều món hấp dẫn như cua rang me, cua hấp.</template>
+</category>
+<category>
+    <pattern>Bcantho</pattern>
+    <template>- Lẩu bần phù sa: Lẩu từ trái bần chua, cá tươi, ăn kèm rau sống<b/>
+- Vịt nấu chao: Món ăn đậm đà từ vịt nấu với chao đỏ, ăn kèm bún hoặc cơm<b/></template>
+</category>
+<category>
+    <pattern>Hướng dẫn di chuyển</pattern>
+    <template>Hiện nay có nhiều hãng xe khách giường nằm, chất lượng cao có tuyến đi Miền Tây, Bạn có thể lựa chọn các hãng như Thành Bưởi, Phương Trang, Văn Lang, và khám phá vẻ đẹp sông nước và đặc sản miền Tây. Hãy chuẩn bị tinh thần và bắt đầu hành trình khám phá miền Tây thú vị nhé! 😊🌴<b/>
+    <b>Dưới đây là một vài nhà xe mà tôi đưa ra</b>
+<link>
+    <text>Thành bưởi</text>
+    <url>https://thanhbuoi.com.vn/(Thành Bưởi)</url>
+</link>
+<link>
+    <text>Phương Trang</text>
+    <url>https://futabus.vn/lich-trinh(Phương Trang)</url>
+</link>
+<link>
+    <text>Văn Lang
+</text>
+    <url>https://vexere.com/vi-VN/xe-van-lang(Văn Lang)
+</url>
+</link>
+</template>
+</category>
+  <category>
+        <pattern>Bánh phồng sữa là gì</pattern>
+        <template>
+           <b>Bánh Phồng Sữa Thanh Long</b> 
+Ngon,Bổ,Rẻ
+<card>
+    <image>https://vietnamfarmer.vn/wp-content/uploads/2017/08/banh-phong-sua-dua-ben-tre-1.jpg</image>
+    <title>Bánh phồng sữa</title>
+    <subtitle>30-35k</subtitle>
+    <button>
+        <text>Địa chỉ ở 121 Lạc long quân,p10,Tp Bến Tre</text>
+        <postback>VSOrder4</postback>
+    </button>
+</card>
+</template>
+    </category>
+    <category>
+        <pattern>VSOrder4</pattern>
+        <template>
+         <link>
+             <text>Ấn vào để xem đường</text>
+             <url>https://www.google.com/maps/dir//%C4%90%E1%BA%B7c+s%E1%BA%A3n+B%E1%BA%BFn+Tre,+861%2F48%2F12+%C4%90.+Tr%E1%BA%A7n+Xu%C3%A2n+So%E1%BA%A1n,+T%C3%A2n+H%C6%B0ng,+Qu%E1%BA%ADn+7,+Th%C3%A0nh+ph%E1%BB%91+H%E1%BB%93+Ch%C3%AD+Minh+700000,+Vi%E1%BB%87t+Nam/@10.5931054,106.2697476,10z/data=!4m9!4m8!1m0!1m5!1m1!1s0x31752f5b1f853a5f:0xab1dbaf3cf00057f!2m2!1d106.6963799!2d10.7502351!3e0?entry=ttu</url>
+         </link>
+        </template>
+    </category>
+    
+
+ <category>
+        <pattern>Kẹo Dừa </pattern>
+        <template>
+           <b>Kẹo dừa là </b> 
+Kẹo dừa là một loại kẹo truyền thống được làm từ dừa và đường. 
+Dừa được bào thành sợi mỏng, sau đó kết hợp với đường và nước cốt dừa, 
+trộn đều và nấu chín cho đến khi đặc lại. Sau đó, hỗn hợp được đổ vào khuôn và cắt thành từng miếng nhỏ để tạo thành những viên kẹo dừa thơm ngon và ngọt ngào.
+
+
+
+<card>
+    <image>https://cdn.tgdd.vn/Files/2020/11/17/1307476/dua-dua-la-gi-tai-sao-lai-goi-la-dua-dua-202011180052327211.jpg</image>
+    <title>Kẹo Dừa Thanh Long</title>
+    <subtitle>30k-45k</subtitle>
+    <button>
+        <text>67 Đ. Ngô Quyền, Phường 6, Quận 10, Thành phố Hồ Chí Min</text>
+        <postback>VSOrder5</postback>
+    </button>
+</card>
+</template>
+
+    </category>
+    <category>
+        <pattern>VSOrder5</pattern>
+        <template>
+         <link>
+             <text>Ấn vào để xem đường</text>
+             <url>https://www.google.com/maps/place/82+Nguy%E1%BB%85n+V%C4%83n+Tho%E1%BA%A1i,+Ch%C3%A2u+Ph%C3%BA+A,+Ch%C3%A2u+%C4%90%E1%BB%91c,+An+Giang,+Vi%E1%BB%87t+Nam/@10.7095223,105.1156575,17z/data=!3m1!4b1!4m6!3m5!1s0x310a26a5bc2774f7:0x36070c874e69acad!8m2!3d10.709517!4d105.1182324!16s%2Fg%2F11j0bsl0c0?entry=ttu</url>
+         </link>
+        </template>
+    </category>
+</aiml>
